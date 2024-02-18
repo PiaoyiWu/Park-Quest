@@ -1,0 +1,38 @@
+.leaderboard-header {
+    font-size: 36px;
+    margin-left: 5%;
+    margin-top: 5%;
+}
+
+.first {
+    font-size: 18px;
+    text-decoration: underline;
+    text-decoration-color: gold;
+    text-decoration-thickness: 3px;
+    margin: 15% 5%;
+    padding-bottom: 4em;
+}
+
+.second {
+    font-size: 18px;
+    text-decoration: underline;
+    text-decoration-color: silver;
+    text-decoration-thickness: 3px;
+    margin-left: 5%;
+    padding-bottom: 4em;
+}
+
+.third {
+    font-size: 18px;
+    text-decoration: underline;
+    text-decoration-color: rgb(159, 99, 8);
+    text-decoration-thickness: 3px;
+    margin-left: 5%;
+    padding-bottom: 4em;
+}
+
+.reg {
+    font-size: 18px;
+    margin-left: 5%;
+    padding-bottom: 4em;
+}

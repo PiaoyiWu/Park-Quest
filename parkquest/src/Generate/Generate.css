@@ -7,3 +7,10 @@ input::-webkit-inner-spin-button {
 .inputLabel {
     margin-left: 10%;
 }
+
+.map {
+    margin: 0% 0% 5% 50%;
+    padding: none;
+    box-shadow: 2px;
+
+}

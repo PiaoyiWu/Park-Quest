@@ -3,6 +3,8 @@ import {Routes, Route} from 'react-router-dom';
 import Navbar from './components/Navbar';
 import HomePage from './Home/HomePage';
 import Generate from './Generate/Generate'
+import Leaderboard from './Leaderboard/Leaderboard'
+
 
 function App() {
   return (
@@ -14,8 +16,9 @@ function App() {
     <Routes>
       <Route path='/' element={<HomePage/>}/>
       <Route path='/GenerateMap' element={<Generate/>}/>
+      <Route path='/Leaderboard' element={<Leaderboard/>}/>
+
     </Routes>
-    {/* <Footer/> */}
     </React.Fragment>
   );
 }
